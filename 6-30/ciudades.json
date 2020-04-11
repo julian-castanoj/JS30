@@ -1,0 +1,669 @@
+[
+	{
+		"city": "Aguachica", 
+        "growth_from_2015_to_2017": "+1.02", 
+        "latitude": 8.3084402, 
+        "longitude": -73.6166, 
+        "population": "96667", 
+        "state": "Cesar"
+	},
+
+	{
+		"city": "Melgar", 
+        "growth_from_2015_to_2017": "+0.82", 
+        "latitude": 4.2047500, 
+        "longitude": -74.6407500, 
+        "population": "36641", 
+        "state": "Tolima"
+	},
+
+	{
+		"city": "Monteria", 
+        "growth_from_2015_to_2017": "+1.425", 
+        "latitude": 8.7479800, 
+        "longitude": -75.8814300, 
+        "population": "453900", 
+        "state": "Cordoba"
+	},
+
+	{
+		"city": "Cerete", 
+        "growth_from_2015_to_2017": "+0.82", 
+        "latitude": 8.8847904, 
+        "longitude": -75.7905197, 
+        "population": "58925", 
+        "state": "Cordoba"
+	},
+
+	{
+		"city": "Armenia", 
+        "growth_from_2015_to_2017": "+0.2", 
+        "latitude": 4.5338898, 
+        "longitude": -75.6811066, 
+        "population": "301226", 
+        "state": "Quindio"
+	},
+
+	{
+		"city": "Duitama", 
+        "growth_from_2015_to_2017": "+0.56", 
+        "latitude": 5.8245001, 
+        "longitude": -73.0340805, 
+        "population": "112692", 
+        "state": "Boyaca"
+	},
+
+	{
+		"city": "Girardot", 
+        "growth_from_2015_to_2017": "+0.57", 
+        "latitude": 4.300725, 
+        "longitude": -74.80545, 
+        "population": "144248", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Turbo", 
+        "growth_from_2015_to_2017": "+2.67", 
+        "latitude": 8.092166298, 
+        "longitude": -76.725663764, 
+        "population": "167900", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Ipiales", 
+        "growth_from_2015_to_2017": "+2.28", 
+        "latitude": 0.824830034, 
+        "longitude": -77.63999744, 
+        "population": "123341", 
+        "state": "Nariño"
+	},
+
+	{
+		"city": "Pasto", 
+        "growth_from_2015_to_2017": "+1.2", 
+        "latitude": 1.2136100, 
+        "longitude": -77.2811100, 
+        "population": "460638", 
+        "state": "Nariño"
+	},
+
+	{
+		"city": "Yumbo", 
+        "growth_from_2015_to_2017": "+2.36", 
+        "latitude": 3.58234, 
+        "longitude": -76.4914627, 
+        "population": "122800", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Bello", 
+        "growth_from_2015_to_2017": "+1.91", 
+        "latitude": 6.3373199, 
+        "longitude": -75.5579529, 
+        "population": "533973", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Tuluá", 
+        "growth_from_2015_to_2017": "+1.18", 
+        "latitude": 4.0846601, 
+        "longitude": -76.19535836, 
+        "population": "219148", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Zipaquirá", 
+        "growth_from_2015_to_2017": "+1.65", 
+        "latitude": 5.02208002, 
+        "longitude": -74.0048100, 
+        "population": "126400", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Villa del Rosario", 
+        "growth_from_2015_to_2017": "+2.35", 
+        "latitude": 7.83389, 
+        "longitude":  -72.4741669, 
+        "population": "92700", 
+        "state": "Norte de Santander"
+	},
+
+	{
+		"city": "Itagüí", 
+        "growth_from_2015_to_2017": "+1.13", 
+        "latitude": 6.1846099, 
+        "longitude": -75.5991287, 
+        "population": "273900", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Valledupar", 
+        "growth_from_2015_to_2017": "+2.19", 
+        "latitude": 10.46314002, 
+        "longitude": -73.2532200, 
+        "population": "473300", 
+        "state": "Cesar"
+	},
+
+	{
+		"city": "Soledad", 
+        "growth_from_2015_to_2017": "0.193", 
+        "latitude": 10.9184303, 
+        "longitude": -74.7645874, 
+        "population": "649100", 
+        "state": "Atlántico"
+	},
+
+	{
+		"city": "Sabanalarga", 
+        "growth_from_2015_to_2017": "+1.08", 
+        "latitude": 10.6296196, 
+        "longitude": -74.9206314, 
+        "population": "100300", 
+        "state": "Atlántico"
+	},
+
+	{
+		"city": "Malambo", 
+        "growth_from_2015_to_2017": "+1.62", 
+        "latitude": 10.8595304, 
+        "longitude": -74.7738571, 
+        "population": "125200", 
+        "state": "Atlántico"
+	},
+
+	{
+		"city": " Fusagasugá", 
+        "growth_from_2015_to_2017": "0.193", 
+        "latitude": 4.3364601, 
+        "longitude": -74.3637772, 
+        "population": "139800", 
+        "state": "Cesar"
+	},
+
+	{
+		"city": "Magangué", 
+        "growth_from_2015_to_2017": "0.07", 
+        "latitude": 9.2420197, 
+        "longitude": -74.7546692, 
+        "population": "123900", 
+        "state": "Bolivar"
+	},
+
+	{
+		"city": "Medellín", 
+        "growth_from_2015_to_2017": "+0.89", 
+        "latitude": 6.2518401, 
+        "longitude": -75.563591, 
+        "population": "2508500", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Yopal", 
+        "growth_from_2015_to_2017": "+2.29", 
+        "latitude": 5.33775, 
+        "longitude": -72.3958588, 
+        "population": "146200", 
+        "state": "Casanare"
+	},
+
+	{
+		"city": "Los Patios", 
+        "growth_from_2015_to_2017": "+1.22", 
+        "latitude": 7.8379302, 
+        "longitude": -72.5037003, 
+        "population": "78400", 
+        "state": "Norte de Santander"
+	},
+
+	{
+		"city": "Pitalito", 
+        "growth_from_2015_to_2017": "+1.92", 
+        "latitude": 1.8537101, 
+        "longitude": -76.0507126, 
+        "population": "130700", 
+        "state": "Huila"
+	},
+
+	{
+		"city": "Cúcuta", 
+        "growth_from_2015_to_2017": "+0.97", 
+        "latitude": 7.8939099, 
+        "longitude": -72.5078201, 
+        "population": "662700", 
+        "state": "Norte de Santander"
+	},
+
+	{
+		"city": "Tumaco", 
+        "growth_from_2015_to_2017": "+2.15", 
+        "latitude": 1.79861, 
+        "longitude": -78.8155594, 
+        "population": "187084", 
+        "state": "Nariño"
+	},
+
+	{
+		"city": "Cartagena", 
+        "growth_from_2015_to_2017": "+1.15", 
+        "latitude": 10.3997202, 
+        "longitude": -75.5144424, 
+        "population": "1036412", 
+        "state": "Bolívar"
+	},
+
+	{
+		"city": "Jamundí", 
+        "growth_from_2015_to_2017": "+2.09", 
+        "latitude": 3.26074, 
+        "longitude": -76.5349884, 
+        "population": "124600", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Villavicencio", 
+        "growth_from_2015_to_2017": "+2.2", 
+        "latitude": 4.1420002, 
+        "longitude": -73.6266403, 
+        "population": "506000", 
+        "state": "Meta"
+	},
+
+	{
+		"city": "Bogotá", 
+        "growth_from_2015_to_2017": "0.193", 
+        "latitude": 4.6097102, 
+        "longitude": -74.081749, 
+        "population": "7412566", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Maicao", 
+        "growth_from_2015_to_2017": "+1.6", 
+        "latitude": 11.3832102, 
+        "longitude": -72.2432098, 
+        "population": "162100", 
+        "state": "Guajira"
+	},
+
+	{
+		"city": "Popayán", 
+        "growth_from_2015_to_2017": "+0.88", 
+        "latitude": 2.43823, 
+        "longitude": -76.61315926, 
+        "population": "282500", 
+        "state": "Cauca"
+	},
+
+	{
+		"city": "Tibú", 
+        "growth_from_2015_to_2017": "+0.55", 
+        "latitude": 8.6389500, 
+        "longitude": -72.7358300, 
+        "population": "36900", 
+        "state": "Norte de Santander"
+	},
+
+	{
+		"city": "Apartadó", 
+        "growth_from_2015_to_2017": "+3.06", 
+        "latitude": 7.8829899 , 
+        "longitude": -76.6258698, 
+        "population": "189300", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Girón", 
+        "growth_from_2015_to_2017": "+2.73", 
+        "latitude": 7.0682001, 
+        "longitude": -73.1698074, 
+        "population": "190400", 
+        "state": "Santander"
+	},
+
+	{
+		"city": "Dosquebradas", 
+        "growth_from_2015_to_2017": "+0.98", 
+        "latitude": 4.83916, 
+        "longitude": -75.6672668, 
+        "population": "202800", 
+        "state": "Risaralda"
+	},
+
+	{
+		"city": "Pamplona", 
+        "growth_from_2015_to_2017": "+0.7", 
+        "latitude": 7.3756499, 
+        "longitude": -72.6479492, 
+        "population": "58200", 
+        "state": "Norte de Santande"
+	},
+
+	{
+		"city": "Paipa", 
+        "growth_from_2015_to_2017": "+0.9", 
+        "latitude": 5.7801300, 
+        "longitude": -73.1170800, 
+        "population": "31300", 
+        "state": "Boyacá"
+	},
+
+	{
+		"city": "Sogamoso", 
+        "growth_from_2015_to_2017": "-0.45", 
+        "latitude": 5.7143402 , 
+        "longitude": -72.9339066, 
+        "population": "112300", 
+        "state": "Boyacá"
+	},
+
+	{
+		"city": "Barrancabermeja", 
+        "growth_from_2015_to_2017": "-0.04", 
+        "latitude": 7.06528, 
+        "longitude": -73.8547211, 
+        "population": "191600", 
+        "state": "Santander"
+	},
+
+	{
+		"city": "Facatativá", 
+        "growth_from_2015_to_2017": "+1.82", 
+        "latitude": 4.8136702 , 
+        "longitude": -74.3545303, 
+        "population": "137000", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Neiva", 
+        "growth_from_2015_to_2017": "+0.54", 
+        "latitude": 8.3084402, 
+        "longitude": -73.6166, 
+        "population": "345800", 
+        "state": "Huila"
+	},
+
+	{
+		"city": "Sahagún", 
+        "growth_from_2015_to_2017": "+0.23", 
+        "latitude": 8.9461699, 
+        "longitude": -75.442749, 
+        "population": "90300", 
+        "state": "Córdoba"
+	},
+
+	{
+		"city": "Cali", 
+        "growth_from_2015_to_2017": "+1.06", 
+        "latitude": 3.4372201, 
+        "longitude": -76.5224991, 
+        "population": "2420100", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Santa Marta", 
+        "growth_from_2015_to_2017": "+1.59", 
+        "latitude": 11.2407904, 
+        "longitude": -74.1990433, 
+        "population": "499400", 
+        "state": "Magdalena"
+	},
+
+	{
+		"city": "Caucasia", 
+        "growth_from_2015_to_2017": "+2.42", 
+        "latitude":  7.9865398, 
+        "longitude": -75.1934891, 
+        "population": "117700", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Lorica", 
+        "growth_from_2015_to_2017": "+0.67", 
+        "latitude": 9.2364798, 
+        "longitude": -75.8134995, 
+        "population": "119800", 
+        "state": "Córdoba"
+	},
+
+	{
+		"city": "Tunja", 
+        "growth_from_2015_to_2017": "+1.88", 
+        "latitude": 5.5352802, 
+        "longitude": -73.3677826, 
+        "population": "195500", 
+        "state": "Boyacá"
+	},
+
+
+	{
+		"city": "Riohacha", 
+        "growth_from_2015_to_2017": "+3.48", 
+        "latitude": 11.5444403, 
+        "longitude": -72.9072189, 
+        "population": "277900", 
+        "state": "Guajira"
+	},
+
+	{
+		"city": "Rionegro", 
+        "growth_from_2015_to_2017": "+1.64", 
+        "latitude": 6.1551499, 
+        "longitude": -75.3737106, 
+        "population": "124200", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Quibdó", 
+        "growth_from_2015_to_2017": "+0.15", 
+        "latitude": 5.6918802, 
+        "longitude": -76.6583481, 
+        "population": "116100", 
+        "state": "Choco"
+	},
+
+	{
+		"city": "Buga", 
+        "growth_from_2015_to_2017": "-0.19", 
+        "latitude": 3.9008901, 
+        "longitude": -76.2978287, 
+        "population": "114147", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Envigado", 
+        "growth_from_2015_to_2017": "+2.32", 
+        "latitude": 6.17591, 
+        "longitude": -75.5917435, 
+        "population": "232900", 
+        "state": "Antioquia"
+	},
+
+	{
+		"city": "Pereira", 
+        "growth_from_2015_to_2017": "+0.5", 
+        "latitude": 4.8133302, 
+        "longitude": -75.6961136, 
+        "population": "474300", 
+        "state": "Risaralda"
+	},
+
+	{
+		"city": "Ocaña", 
+        "growth_from_2015_to_2017": "+0.77", 
+        "latitude": 8.23773, 
+        "longitude": -73.356041, 
+        "population": " 99700", 
+        "state": "Norte de Santander"
+	},
+
+	{
+		"city": "Bucaramanga", 
+        "growth_from_2015_to_2017": "+0.06", 
+        "latitude": 7.1253901, 
+        "longitude": -73.1197968, 
+        "population": "528500", 
+        "state": "Santander"
+	},
+
+	{
+		"city": "Barranquilla", 
+        "growth_from_2015_to_2017": "+0.64", 
+        "latitude": 10.9685402, 
+        "longitude": -74.7813187, 
+        "population": "1228621", 
+        "state": "Atlántico"
+	},
+
+	{
+		"city": "Buenaventura", 
+        "growth_from_2015_to_2017": "+1.98", 
+        "latitude": 3.5833299, 
+        "longitude": -77, 
+        "population": "415800", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Piedecuesta", 
+        "growth_from_2015_to_2017": "+2.3", 
+        "latitude": 6.9878898, 
+        "longitude": -73.04953, 
+        "population": "156200", 
+        "state": "Santander"
+	},
+
+	{
+		"city": "Floridablanca", 
+        "growth_from_2015_to_2017": "+0.23", 
+        "latitude": 7.0622201, 
+        "longitude": -73.086441, 
+        "population": "266600", 
+        "state": "Santander"
+	},
+
+	{
+		"city": "Soacha", 
+        "growth_from_2015_to_2017": "+2.17", 
+        "latitude": 4.57937, 
+        "longitude": -74.2168198, 
+        "population": "533700", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Cartago", 
+        "growth_from_2015_to_2017": "+0.52", 
+        "latitude": 4.7463899, 
+        "longitude": -75.91166696, 
+        "population": "133600", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Sincelejo", 
+        "growth_from_2015_to_2017": "+1.38", 
+        "latitude": 9.3047199, 
+        "longitude": -75.3977814, 
+        "population": "282900", 
+        "state": "Sucre"
+	},
+
+	{
+		"city": "Palmira", 
+        "growth_from_2015_to_2017": "+0.64", 
+        "latitude": 3.5394399, 
+        "longitude": -76.3036118, 
+        "population": "308700", 
+        "state": "Valle del Cauca"
+	},
+
+	{
+		"city": "Manizales", 
+        "growth_from_2015_to_2017": "+0.491", 
+        "latitude": 5.0688901, 
+        "longitude": -75.5173798, 
+        "population": "51099", 
+        "state": "Caldas"
+	},
+
+	{
+		"city": "San Andres", 
+        "growth_from_2015_to_2017": "+0.19", 
+        "latitude": 12.5847197, 
+        "longitude": -81.7005615, 
+        "population": "76500", 
+        "state": "San Andres"
+	},
+
+	{
+		"city": "Villa de leyva", 
+        "growth_from_2015_to_2017": "+3.07", 
+        "latitude": 5.6450000, 
+        "longitude": -73.5666700, 
+        "population": "17500", 
+        "state": "Boyaca"
+	},
+
+	{
+		"city": "Ciénaga", 
+        "growth_from_2015_to_2017": "+0.28", 
+        "latitude": 11.0070295, 
+        "longitude": -74.2476501, 
+        "population": "104900", 
+        "state": "Magdalena"
+	},
+
+	{
+		"city": "Florencia", 
+        "growth_from_2015_to_2017": "+1.75", 
+        "latitude": 1.61438, 
+        "longitude":  -75.6062317, 
+        "population": "178500", 
+        "state": "Caqueta"
+	},
+
+	{
+		"city": "Ibagué", 
+        "growth_from_2015_to_2017": "+0.95", 
+        "latitude": 4.43889, 
+        "longitude": -75.2322235, 
+        "population": "564100", 
+        "state": "Tolima"
+	},
+
+	{
+		"city": "Chia", 
+        "growth_from_2015_to_2017": "+2.36", 
+        "latitude": 4.8587599 , 
+        "longitude": -74.0586624, 
+        "population": "132700", 
+        "state": "Cundinamarca"
+	},
+
+	{
+		"city": "Arauca", 
+        "growth_from_2015_to_2017": "+1.37", 
+        "latitude": 7.0847101, 
+        "longitude": -70.759079, 
+        "population": "94716", 
+        "state": "Arauca"
+	}
+
+]
