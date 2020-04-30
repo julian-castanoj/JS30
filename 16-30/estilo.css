@@ -1,0 +1,26 @@
+html {
+    color:black;
+    font-family: sans-serif;
+    background: url("https://i.pinimg.com/originals/d9/89/b2/d989b2498ff79d66a903c21307c2fd85.png")no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    margin: 0;
+}
+
+.hero {
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+}
+
+h1 {
+    text-shadow: 10px 10px 0 rgba(0,0,0,1);
+    font-size: 100px;
+}
