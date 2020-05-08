@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+	<html lang="en">
+
+		<head>
+
+		  <meta charset="UTF-8">
+		  <title>Voz sintetizador</title>
+		  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+		  <link rel="stylesheet" type="text/css" href="estilo.css">
+
+		</head>
+
+		<body>
+
+		    <div class="voiceinator">
+
+		      <h1>Lector 5000</h1>
+
+		      <select name="voice" id="voices">
+		        <option value="">Seleccione idioma</option>
+		      </select>
+
+		      <label for="rate">Velocidad:</label>
+		      <input name="rate" type="range" min="0" max="3" value="1" step="0.1">
+
+		      <label for="pitch">Tono:</label>
+
+		      <input name="pitch" type="range" min="0" max="2" step="0.1">
+		      <textarea name="text">Ome gono ome ome</textarea>
+		      <button id="stop">Parar</button>
+		      <button id="speak">Hablar</button>
+
+		    </div>
+
+		<script type="text/javascript" src="javaS.js"></script> 
+
+		</body>
+
+	</html>
